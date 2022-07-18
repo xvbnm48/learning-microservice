@@ -1,3 +1,3 @@
-module github.com/xvbnm48/learning-microservice
+module frontend
 
 go 1.17
